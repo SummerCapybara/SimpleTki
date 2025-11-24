@@ -5,20 +5,20 @@ SimpleTki is a lightweight Python library that simplifies the creation of graphi
 Installation
 
 Install via pip (once published):
-pip install SimpleTki
+pip install simpletki
 
 Or install from source:
 git clone https://github.com/SummerCapybara/SimpleTki.git
 cd SimpleTki
 pip install .
 
-# pip install SimpleTki  <- for PyPI
-# from SimpleTki import SimpleTk  <- for Python import
+# pip install simpletki  <- for PyPI
+# from simpletk import SimpleTk  <- for Python import
 
 
 Usage
 
-from SimpleTki import SimpleTk
+from simpletk import SimpleTk
 
 # Create a window
 app = SimpleTk()
@@ -33,6 +33,7 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 Links
 
 GitHub Repository: https://github.com/SummerCapybara/SimpleTki
+
 
 
 
