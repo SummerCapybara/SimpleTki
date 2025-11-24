@@ -12,8 +12,8 @@ git clone https://github.com/SummerCapybara/Simple-Tk.git
 cd SimpleTk
 pip install .
 
-# pip install Simple-Tk  -- PyPI install
-# from SimpleTk import SimpleTk  -- Python import
+# pip install Simple-Tk  <- for PyPI
+# from SimpleTk import SimpleTk  <- for Python import
 
 
 Usage
@@ -33,5 +33,6 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 Links
 
 GitHub Repository: https://github.com/SummerCapybara/Simple-Tk
+
 
 
